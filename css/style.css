@@ -291,6 +291,7 @@ section {
     max-width: var(--max-width);
     margin: 0 auto;
     padding: 140px 2rem 90px;
+    scroll-margin-top: var(--header-height, 90px);
 }
 
 .section-tinted {

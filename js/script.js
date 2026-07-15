@@ -1,3 +1,14 @@
+(function () {
+    function setHeaderHeightVar() {
+        const header = document.querySelector('header');
+        if (header) {
+            document.documentElement.style.setProperty('--header-height', header.offsetHeight + 'px');
+        }
+    }
+    setHeaderHeightVar();
+    window.addEventListener('resize', setHeaderHeightVar);
+})();
+
 // Scroll-spy: highlights the active folder-tab in the nav
 // as the corresponding section enters view.
 (function () {
