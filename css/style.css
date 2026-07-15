@@ -531,7 +531,7 @@ button:focus-visible {
         grid-template-columns: 1fr;
         min-height: auto;
         /*padding-top: 220px;*/
-        padding-top: calc(var(--header-height, 220px) + 24px); 
+        padding-top: 270px; 
         gap: 2rem;
         text-align: left;
     }
