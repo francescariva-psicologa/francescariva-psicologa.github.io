@@ -550,6 +550,6 @@ button:focus-visible {
     section { padding: 160px 1.25rem 70px; }
     .section-tinted .section-inner { padding: 130px 1.25rem 80px; }
     .section-dark { padding: 90px 1.25rem 90px; }
-    .contact-link { font-size: 1.3rem; }
+    .contact-link { font-size: 1.2rem; }
     footer { flex-direction: column; text-align: left; }
 }
