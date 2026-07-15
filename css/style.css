@@ -444,6 +444,9 @@ section {
     border: 1px solid var(--line-soft);
     border-left: 3px solid var(--sage);
     transition: transform 0.25s ease, border-color 0.25s ease;
+}
+
+.feature-card p {
     text-align: left;
 }
 
