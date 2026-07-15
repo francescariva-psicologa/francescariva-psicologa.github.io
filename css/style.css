@@ -539,7 +539,7 @@ button:focus-visible {
     .hero-content { order: 2; }
     .breathing-circle { width: 160px; }
     .about-grid { grid-template-columns: 1fr; gap: 2rem; }
-    .section-mark { width: 70px; height: 55px; margin-bottom: 1.95rem; margin-top: 0.7rem; }
+    .section-mark { width: 70px; height: 55px; margin-bottom: 2.2rem; margin-top: 0.9rem; }
     .section-mark svg { width: 70px; height: 55px; }
 }
 
